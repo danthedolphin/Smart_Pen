@@ -75,7 +75,7 @@ TO-DO: Update 'Getting Started' with images that document the process of loading
 
 (1) Assemble the Penley hardware using schematic above. 
 
-(2) Compile and load the [IMU_GY_521.ino](arduino/IMU_GY_521/IMU_GY_521.ino) Arduino file onto the Arduino. Ensure the value of BUTTON is set to the corresponding digital pin that is connected to your physical writing push-button.  
+(2) Compile and load the [IMU_GY_521.ino](IMU_GY_521/IMU_GY_521.ino) Arduino file onto the Arduino. Ensure the value of BUTTON is set to the corresponding digital pin that is connected to your physical writing push-button.  
 
 (3) Connect to your bluetooth module.  
 
